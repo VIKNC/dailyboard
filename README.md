@@ -20,7 +20,7 @@ A beautiful daily overview dashboard with real-time weather, Google Calendar int
 ### Step 3: Add to Dashboard
 ```javascript
 const CONFIG = {
-  WEATHER_API_KEY: '645ca30988c8625fecca9a816d901465',
+  WEATHER_API_KEY: 'key here',
   // ...
 };
 ```
@@ -70,7 +70,7 @@ const CONFIG = {
 ### Step 5: Add to Dashboard
 ```javascript
 const CONFIG = {
-  GOOGLE_CLIENT_ID: '643480272020-acncgudbscopt2ppoc70pk3qgme3lopb.apps.googleusercontent.com',
+  GOOGLE_CLIENT_ID: 'key here',
   // ...
 };
 ```
